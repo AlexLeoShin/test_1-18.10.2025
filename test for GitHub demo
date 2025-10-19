@@ -1,0 +1,9 @@
+import numpy as np
+
+x = np.pi
+
+y = 1
+
+x + y
+
+print(np.sin(x))
